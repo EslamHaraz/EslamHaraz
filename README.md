@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EslamHaraz/My-PortFolio](https://github.com/EslamHaraz/My-PortFolio)
 
-- 📝 I regularly write articles on [No Blog](No Blog)
-
 - 💬 Ask me about **vue**
 
 - 📫 How to reach me **islamharaz64@gmail.com**
